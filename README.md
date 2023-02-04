@@ -2,7 +2,7 @@
 
 
 ```js
-import Desenvolvedor from 'SeuNick';
+import Desenvolvedor from 'jonabergamo';
 
 class SobreMim extends Desenvolvedor {
   nome     = 'Jonathan Oliveira Bergamo;
@@ -17,37 +17,36 @@ class Skills extends Desenvolvedor {
   frameworks = [''];
 }
 ```
+<br/>
 
-<p align="left">
-  <a href="#" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:jonathanbergamo16@gmail.com" /></a>
 
-  <a href="#" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
-
-  <a href="#" alt="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
-
-  <a href="#" alt="Facebook">
-  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=LINK-DO-SEU-FACEBOOK"/></a>
-
-  <a href="#" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
-</p>  
-
-## **GitHub Estatísticas**
-
-<a href="https://github.com/Gurupreet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonabergamo&theme=dracula&hide_langs_below=1" />
+<div align="center">
+<a href="https://github.com/https://github.com/jonabergamo" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-
-<a href="https://github.com/jonabergamo">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=jonabergamo&show_icons=true&theme=dracula&line_height=27" alt="Jonathan github stats"/>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/jonathanbergamo/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
+<a href="https://instagram.com/https://www.instagram.com/jowbergamo/" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>  
+</div>  
+  
 
-[website]: https://codedev.ga/
-[twitter]: https://twitter.com/SEUTWITTER
-[youtube]: https://www.youtube.com/user/SEUYOUTUBE/
-[instagram]: https://www.instagram.com/SEUINSTAGRAM/
-[linkedin]: https://www.linkedin.com/in/SEULINKEDIN/
-<br>
+<br/>  
+<div align="center">
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=226lqeizvlpgvdqlo42ja3tmq&cover_image=true&theme=default&show_offline=false&background_color=080707&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=226lqeizvlpgvdqlo42ja3tmq&redirect=true)
+
+<br/>  
+
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/jonabergamo/count.svg" />
+</p>
+
+<div align="center">
+
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+<br />
