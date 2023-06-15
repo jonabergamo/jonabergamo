@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://jonathanbergamo.netlify.app/static/media/signature.badcdf4beae3f9eb34135086f2354217.svg" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 
 ```js
