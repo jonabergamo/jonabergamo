@@ -11,8 +11,8 @@ class SobreMim extends Desenvolvedor {
   local = 'Sorocaba, SP';
 }
 
-class Skills extends Desenvolvedor {
-  linguagens  = ['JAVASCRIPT, PYTHON, JAVA, C'];
+class Skills extends SobreMim {
+  linguagens  = ['TYPESCRIPT, PYTHON, JAVA, C'];
   bibliotecas  = ['framer-motion'];
   frameworks = ['React.js, React-native'];
 }
