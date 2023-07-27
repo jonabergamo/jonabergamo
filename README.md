@@ -51,5 +51,5 @@ class Skills extends SobreMim {
 
 <br />
 
-<a href="jonathanbergamo.netlify.app"><img align="center" src="https://jonathanbergamo.netlify.app/static/media/signature.badcdf4beae3f9eb34135086f2354217.svg"  width="250px" align="right" alt="Computador iuriCode"><a/>
+<a href="https://jonathanbergamo.netlify.app"  target="blank"><img align="center" src="https://jonathanbergamo.netlify.app/static/media/signature.badcdf4beae3f9eb34135086f2354217.svg"  width="250px" align="right" alt="Computador iuriCode"><a/>
 
