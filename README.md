@@ -19,7 +19,7 @@
 import Desenvolvedor from 'jonabergamo';
 
 class SobreMim extends Desenvolvedor {
-  nome     = 'Jonathan Oliveira Bergamo;
+  nome     = 'Jonathan Oliveira Bergamo';
   area    = 'Desenvolvedor React';
   trabalho  = '2RP Net';
   local = 'Sorocaba, SP';
