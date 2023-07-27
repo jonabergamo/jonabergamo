@@ -3,7 +3,7 @@
 
 <p align="center">
 <a href="https://linkedin.com/in/jonathanbergamo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jonathanbergamo" height="30" width="40" /></a>
-<a href="https://instagram.com/jowhbergamo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jowbergamo" height="30" width="40" /></a>
+<a href="https://instagram.com/jowbergamo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jowbergamo" height="30" width="40" /></a>
 <a href="https://discord.gg/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="jonabergamo" height="30" width="40" /></a>
 </p>
 
