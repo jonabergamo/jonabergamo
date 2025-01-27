@@ -1,9 +1,8 @@
 # 🚀 Olá, eu sou Jonathan Bergamo!
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=25&pause=1000&color=fc0039&random=false&width=600&height=40&lines=Desenvolvedor+Fullstack+Apaixonado+por+Inovação!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=25&pause=1000&color=fc0039&random=false&width=600&height=40&lines=Desenvolvedor+Fullstack!)](https://git.io/typing-svg)
 
 Sou um **desenvolvedor fullstack** especializado em criar **soluções escaláveis e de alto impacto**. Com experiência sólida no desenvolvimento **web e mobile**, minha missão é transformar ideias inovadoras em produtos de alta performance.
-
 
 📍 **Localização:** Sorocaba, São Paulo  
 🎓 **Formação:** Análise e Desenvolvimento de Sistemas
