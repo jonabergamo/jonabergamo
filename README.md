@@ -1,92 +1,52 @@
-# 🚀 Hello, I’m Jonathan Bergamo!
+# Hi, I'm Jonathan
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=25&pause=1000&color=fc0039&random=false&width=600&height=40&lines=Fullstack+Developer!)](https://git.io/typing-svg)
+I'm a full stack software engineer from Sorocaba, Brazil. I build web and mobile products with React, TypeScript, Python and Django, and I work remotely on London hours.
 
-I’m a **fullstack developer** specializing in creating **scalable and high-impact solutions**. With solid experience in **web and mobile development**, my mission is to transform innovative ideas into high-performance products.
+Right now I'm at [Natoora](https://www.natoora.com), working across a Django platform, its microservices and the React and React Native apps it runs in six regions. I like owning a feature from the spec to production, and I like the bugs nobody else wants to chase.
 
-📍 **Location:** Sorocaba, São Paulo  
-🎓 **Education:** Systems Analysis and Development  
+[Portfolio](https://jonathanbergamo.vercel.app) &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/jonathanbergamo/) &nbsp;|&nbsp; [Email](mailto:jonathanbergamo16@gmail.com)
 
----
+## Projects
 
-## 🔥 My Specialties
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://kilobyte-rho.vercel.app"><img src="https://jonathanbergamo.vercel.app/projects/kilobyte.webp" alt="Kilobyte store home page"></a>
+      <h3>Kilobyte</h3>
+      <p>A working electronics store. Stripe Checkout sits behind a verified webhook that marks orders paid and moves stock, and money is kept in integer cents.</p>
+      <p><sub>Next.js, Drizzle, Postgres, Stripe, Auth.js</sub></p>
+      <p><a href="https://kilobyte-rho.vercel.app">Live</a> &nbsp;|&nbsp; <a href="https://github.com/jonabergamo/kilobyte">Code</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://sharedmd.onrender.com"><img src="https://jonathanbergamo.vercel.app/projects/sharedmd.webp" alt="Three people editing the same document in SharedMD"></a>
+      <h3>SharedMD</h3>
+      <p>A markdown editor you write in with other people. Live cursors, and offline edits that merge back when you reconnect.</p>
+      <p><sub>Yjs, Socket.io, Node, Redis, Docker</sub></p>
+      <p><a href="https://sharedmd.onrender.com">Live</a> &nbsp;|&nbsp; <a href="https://github.com/jonabergamo/sharedmd">Code</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://ninebox-seven.vercel.app"><img src="https://jonathanbergamo.vercel.app/projects/ninebox.webp" alt="Ninebox grid of performance and potential"></a>
+      <h3>Ninebox</h3>
+      <p>A school platform where grades move students across a grid of performance and potential. The grid rules are pure functions with a test for every branch.</p>
+      <p><sub>Django, Postgres, JWT, Next.js, WebSocket</sub></p>
+      <p><a href="https://ninebox-seven.vercel.app">Live</a> &nbsp;|&nbsp; <a href="https://github.com/jonabergamo/Ninebox">Code</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://mundobee.vercel.app"><img src="https://jonathanbergamo.vercel.app/projects/mundobee.webp" alt="MundoBee"></a>
+      <h3>MundoBee</h3>
+      <p>Live beehive monitoring. ESP32 sensors send readings over MQTT to an API and a dashboard. First place at COMBRAPI 2024.</p>
+      <p><sub>NestJS, MQTT, Postgres, Next.js, ESP32</sub></p>
+      <p><a href="https://mundobee.vercel.app">Live</a> &nbsp;|&nbsp; <a href="https://github.com/jonabergamo/mundobee">Code</a></p>
+    </td>
+  </tr>
+</table>
 
-💻 **Main Stack:**  
-✔️ **Frontend:** React.js, Next.js, React Native, Tailwind CSS  
-✔️ **Backend:** Java (8, 11, 17), NestJS, Node.js  
-✔️ **Databases:** PostgreSQL, MongoDB, MariaDB, Redis, InfluxDB  
-✔️ **Cloud & DevOps:** GCP, AWS, Docker, Git/GitFlow  
-✔️ **Advanced Practices:** TDD, Clean Architecture, SOLID, Microservices, CI/CD  
-✔️ **Tools:** Cypress, Jest, Postman, Vim, VSCode, Bash/Shell  
+I also built [Openbox](https://github.com/jonabergamo/openbox), a Discord music bot you host yourself in one Docker container.
 
----
+## What I work with
 
-## 📈 Achievements & Results  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white) ![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB) ![Expo](https://img.shields.io/badge/Expo-000020?logo=expo&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?logo=googlecloud&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
 
-✅ **Technical Leadership:** Developed new features for web and mobile applications, impacting **4+ million active users**.  
-✅ **Operational Efficiency:** Designed and optimized data migration scripts, reducing failures and accelerating system transitions.  
-✅ **Quality & Maintenance:** Implemented TDD and automated testing with Jest and Cypress, improving code quality and stability.  
-✅ **Mentorship & Training:** Led internal workshops and mentored interns, fostering knowledge sharing and best practices.
-
----
-
-## 📡 Connect with Me!  
-
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=fc0039&color:FFF)](mailto:jonathanbergamo16@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=fc0039&color:FFF)](https://www.linkedin.com/in/jonathanbergamo/)  
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=fc0039&color:FFF)](https://www.instagram.com/jowbergamo)  
-
----
-
-## ⚡ Technologies & Tools  
-
-### 🛠 Languages  
-
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)  
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)  
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)  
-![C](https://img.shields.io/badge/-C-000?&logo=C)  
-![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)  
-![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3)  
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)  
-
-### ⚙️ Technologies  
-
-![React](https://img.shields.io/badge/-React-000?&logo=React)  
-![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)  
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=Node.js)  
-![NestJS](https://img.shields.io/badge/-NestJS-000?&logo=NestJS)  
-![Django](https://img.shields.io/badge/-Django-000?&logo=Django)  
-![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)  
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)  
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)  
-![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)  
-![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)  
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)  
-![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)  
-![Google Cloud Platform](https://img.shields.io/badge/-GCP-000?&logo=Google-Cloud)  
-
----
-
-## 🔥 Full Stack Projects  
-
-[![](<https://img.shields.io/badge/-🐝%20Colmeia%20Smart%20(1st%20Place%20Innovation%20Award%20IC%20Combrapi%202024)-000>)](https://github.com/jonabergamo/colmeia-smart)  
-[![](https://img.shields.io/badge/-📚%20Educational%20Portal%2027Box-000)](https://github.com/jonabergamo/27box)  
-[![](https://img.shields.io/badge/-🛒%20Dynamic%20E‑commerce-000)](https://github.com/jonabergamo/ecommerce-dinamico)  
-
----
-
-## 📜 Certifications  
-
-![Google Cloud Foundations](https://img.shields.io/badge/-Google%20Cloud%20Foundations-000?&logo=Google-Cloud)  
-![React Developer](https://img.shields.io/badge/-React%20Developer-000?&logo=React)  
-![TypeScript FullStack Developer](https://img.shields.io/badge/-TypeScript%20FullStack-000?&logo=TypeScript)  
-
----
-
-## 📊 GitHub Stats  
-
-![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jonabergamo&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=fc0039&text_color=FFF&border_radius=3&border_color=fc0039&icon_color=fc0039&theme=jolly)  
-
-[![Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jonabergamo&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=fc0039&hide=html,css&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=fc0039&count_private=true)](https://github.com/mari4souza/github-readme-stats)
+I test with Jest, React Testing Library, pytest and Playwright. I use Claude Code every day, and a person reviews everything it touches.
